@@ -18,6 +18,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
+#include "test.h"
 
 // Cette fonction est la condition
 int condition(char choice[]) {
