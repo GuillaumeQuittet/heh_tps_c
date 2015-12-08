@@ -1,7 +1,13 @@
 #include <stdio.h>
 
+void menu() {
+    printf("Que voulez-vous faire ?\n");
+    printf("1) Crypter un string\n");
+    printf("2) Decrypter un string\n");
+}
+
 void readFile() {
-    if(FILE *fp = fopen("clair.txt", "r")) {
+    if(File *fp = fopen("clair.txt", "r")) {
         char buf[1024];
         while(fp = ) {
 
@@ -15,6 +21,6 @@ void writeFile() {
 }
 
 int main() {
-    printf("Hello World!\n");
+    menu();
     return 0;
 }

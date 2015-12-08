@@ -1,0 +1,5 @@
+Dans un menu, j'utilisais un char.
+Ce n'est pas la bonne solution.
+Exemple: si j'entre 12, le programme pense que j'ai entré 1.
+Il faut dont créer un tableau de char.
+Voir code : test.c
