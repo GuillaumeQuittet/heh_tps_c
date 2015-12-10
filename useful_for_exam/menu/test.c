@@ -84,4 +84,3 @@ int main() {
     // Une fois la condition repectée, le programme se termine.
     return 0;
 }
-
